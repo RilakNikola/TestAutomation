@@ -1,0 +1,65 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "Name": "Nikola Rilak",
+      "Email": "rilaknikola@yahoo.com",
+      "Password": "123qwerty",
+      "EncryptedPassword": "NCwSjVUy5g0qgKGSJCtRsVtUP4ZiTUsYpeFrD3Pw8so=",
+      "KeyFilePath": "C:\\Users\\Hp i7\\Desktop\\Rilak\\user1CredentialsKeyFile.txt"
+    }
+  ],
+  "SearchFormData": [
+    {
+      "Id": 1,
+      "Destination": "Florida, United States",
+      "DateOption": "FirstAvailable",
+      "NumberOfAdults": 4,
+      "NumberOfChildren": 2
+    },
+    {
+      "Id": 2,
+      "Destination": "Miami Beach, Florida, United States",
+      "DateOption": "SpecificDay",
+      "Date": "2024-09-25",
+      "NumberOfAdults": 3,
+      "NumberOfChildren": 3
+    }
+  ],
+  "FiltersData": [
+    {
+      "Id": 1,
+      "ReviewScore": "FourFifty",
+      "FishingType": "InshoreFishing",
+      "TargetedSpecies": "SnapperRed"
+    },
+    {
+      "Id": 2,
+      "ReviewScore": "FourTwentyFive",
+      "FishingType": "OffshoreFishing",
+      "TargetedSpecies": "Cobia"
+    },
+    {
+      "Id": 3,
+      "ReviewScore": "FourTwentyFive",
+      "FishingType": "WreckFishing",
+      "TargetedSpecies": "DolphinMahiMahi"
+    }
+  ],
+  "ResultsData": [
+    {
+      "Id": 1,
+      "Sticker": "AnglersChoice",
+      "Option": "First"
+    }
+  ],
+  "MessageCaptainData": [
+    {
+      "Id": 1,
+      "Message": "Hello Captain",
+      "DayInTheMonth": "Last",
+      "GroupSize": "Two",
+      "TripOptions": "Last"
+    }
+  ]
+}

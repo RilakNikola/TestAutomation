@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "username": "nikolarilakk",
+      "firstName": "Nikola",
+      "lastName": "Rilak",
+      "email": "rilaknikola@yahoo.com",
+      "password": "Pa$$w0rd2",
+      "phone": "+381643745953",
+      "userStatus": 0
+    }
+  ]
+}
